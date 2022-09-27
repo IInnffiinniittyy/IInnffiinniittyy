@@ -74,7 +74,7 @@
 
 
 <img width="400" align="left" src="https://c.tenor.com/lKFLaKjwKuQAAAAM/mental-health-wellbeing.gif" alt="Error">
-<img width="500" height="380" align="right" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8TTfc2g2GHo/v1/-1x-1.jpg" alt="Error">
+<img width="400" height="380" align="right" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8TTfc2g2GHo/v1/-1x-1.jpg" alt="Error">
 <br>
 <br>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width:100%;">
