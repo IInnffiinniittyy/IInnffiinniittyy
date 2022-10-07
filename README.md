@@ -5,7 +5,7 @@
   </p>
 <h1 align="center">𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 <img src="https://raw.githubusercontent.com/lostgirljourney/lostgirljourney/master/assets/gifs/Earth.gif" width="24px">/>!</h1>
 <h1 align="center">Namaskaaram 🙏, I'm Tanuj Pant</h1>
-<h3 align="center">A Passionate Software Developer From Ranikhet, India</h3>
+<h3 align="center">A Passionate Software Developer From New Delhi, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iinnffiinniittyy&label=Profile%20views&color=0e75b6&style=flat" alt="iinnffiinniittyy" /> </p>
 <br>
