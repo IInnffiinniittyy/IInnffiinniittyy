@@ -13,9 +13,9 @@
 
 <img align="right"  width="450" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 
-- 🌱 I’m currently learning **stuff to be a Full-Stack Web Developer!**
+- 🌱 I’m currently learning **stuff to be a Backend Developer!**
 
-- 👯 I’m looking to collaborate on **Full Stack Projects**
+- 👯 I’m looking to collaborate on **Backend Projects**
 
 - 👨‍💻 All of my projects are available at : Coming Soon...
 
