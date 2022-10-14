@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iinnffiinniittyy&label=Profile%20views&color=0e75b6&style=flat" alt="iinnffiinniittyy" /> </p>
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iinnffiinniittyy" alt="iinnffiinniittyy" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iinnffiinniittyy" alt="iinnffiinniittyy" /></a> </p>
 
 <img align="right"  width="450" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 
