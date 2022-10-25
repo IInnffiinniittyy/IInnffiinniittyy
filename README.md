@@ -17,11 +17,11 @@
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
-- 👨‍💻 All of my projects are available at : Coming Soon...
+- 👨‍💻 All of my projects are available at : [Click Here](https://iinnffiinniittyy.github.io/)
 
 - 📫 Feel free to reach me at **tanuj813@gmail.com**
 
-- 📄 Know about my experiences : Coming Soon...
+- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1ViTi2jPVtRu017bY4sQ8PDW3h4pjYXnR/view?usp=sharing)
 
 - ⚡ Fun fact :  **It is your responsibility to find meaning in your life. Period.**
 
