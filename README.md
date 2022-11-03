@@ -21,7 +21,7 @@
 
 - 📫 Feel free to reach me at **tanuj813@gmail.com**
 
-- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1FjvviFTQ3BuzjNghrkKkGj5KOHUjiVNk/view?usp=sharing)
+- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1ViTi2jPVtRu017bY4sQ8PDW3h4pjYXnR/view?usp=sharing)
 
 - ⚡ Fun fact :  **It is your responsibility to find meaning in your life. Period.**
 
