@@ -67,10 +67,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iinnffiinniittyy&" alt="iinnffiinniittyy" /></p>
 
-<h2 align="left">Contributions: </h2>
-<img src="https://activity-graph.herokuapp.com/graph?username=IInnffiinniittyy&amp;theme=react-dark&amp;hide_border=true&amp;area=true" style="max-width:100%;">
-<br>
-
 <img width="400" align="left" src="https://c.tenor.com/lKFLaKjwKuQAAAAM/mental-health-wellbeing.gif" alt="Error">
 <img width="400" height="380" align="right" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8TTfc2g2GHo/v1/-1x-1.jpg" alt="Error">
 <br>
