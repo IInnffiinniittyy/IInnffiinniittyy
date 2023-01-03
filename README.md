@@ -65,8 +65,6 @@
 
 ![Tanuj Pant's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=IInnffiinniittyy&show_icons=true&include_all_commits=true&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iinnffiinniittyy&" alt="iinnffiinniittyy" /></p>
-
 <img width="400" align="left" src="https://c.tenor.com/lKFLaKjwKuQAAAAM/mental-health-wellbeing.gif" alt="Error">
 <img width="400" height="380" align="right" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8TTfc2g2GHo/v1/-1x-1.jpg" alt="Error">
 <br>
