@@ -46,7 +46,6 @@
  <h2 align="left">⚒  Integrated Development Environments - IDE's:</h2>
 <p align="left">
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
- <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
 <a href="https://www.jetbrains.com/idea/" rel="nofollow"><img src="https://camo.githubusercontent.com/ca35911d1944e2b62415b6b84040fccc403aaacf064b95e5d0cd93790b34e4a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e74656c6c694a5f494445412d3362326535613f7374796c653d666f722d7468652d6261646765266c6f676f3d496e74656c6c694a2d49444541266c6f676f436f6c6f723d7768697465" alt="Intellij Idea" title="Intellij Idea" data-canonical-src="https://img.shields.io/badge/-IntelliJ_IDEA-3b2e5a?style=for-the-badge&amp;logo=IntelliJ-IDEA&amp;logoColor=white" style="max-width:100%;"></a>
 <a href="https://www.eclipse.org/ide/" rel="nofollow"><img src="https://camo.githubusercontent.com/e94c506671e04a00c96f348821d212086714dbffcc98cb17fead097355017543/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3362326535613f7374796c653d666f722d7468652d6261646765266c6f676f3d45636c69707365266c6f676f436f6c6f723d7768697465" alt="Eclipse" title="Eclipse" data-canonical-src="https://img.shields.io/badge/-Eclipse-3b2e5a?style=for-the-badge&amp;logo=Eclipse&amp;logoColor=white" style="max-width:100%;"></a>
 </p>
