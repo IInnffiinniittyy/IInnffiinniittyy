@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
-- 👨‍💻 All of my projects are available at : [Click Here](https://iinnffiinniittyy.github.io/)
+- 👨‍💻 All of my projects are available at : [Portfolio](https://iinnffiinniittyy.github.io/)
 
 - 📫 Feel free to reach me at **tanuj813@gmail.com**
 
