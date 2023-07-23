@@ -17,8 +17,6 @@
 
 - 👯 I’m looking to collaborate on **Full-stack Projects**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://iinnffiinniittyy.github.io/)
-
 - 📫 Feel free to reach me at **tanuj813@gmail.com**
 
 - ⚡ Fun fact:  **Nobody has enough!**
