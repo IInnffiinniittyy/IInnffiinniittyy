@@ -15,15 +15,13 @@
 
 - 🌱 I’m currently learning **JAVA!**
 
-- 👯 I’m looking to collaborate on **Backend Projects**
+- 👯 I’m looking to collaborate on **Full-stack Projects**
 
-- 👨‍💻 All of my projects are available at : [Portfolio](https://iinnffiinniittyy.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://iinnffiinniittyy.github.io/)
 
 - 📫 Feel free to reach me at **tanuj813@gmail.com**
 
-- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1ViTi2jPVtRu017bY4sQ8PDW3h4pjYXnR/view?usp=sharing)
-
-- ⚡ Fun fact :  **It is your responsibility to find meaning in your life. Period.**
+- ⚡ Fun fact:  **Nobody has enough!**
 
 ## Connect with me for : <img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/raw/master/gifs/Handshake.gif" height="45px" style="max-width:100%;">
   - Collaborating on New Projects
