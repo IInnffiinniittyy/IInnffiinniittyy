@@ -21,16 +21,13 @@
 
 - ⚡ Fun fact:  **Nobody has enough!**
 
-## Connect with me for : <img align="center" src="https://github.com/CyberBoyAyush/CyberBoyAyush/raw/master/gifs/Handshake.gif" height="45px" style="max-width:100%;">
+## Connect with me for : <a href="https://www.linkedin.com/in/tanujpant6263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tanujpant6263" height="25" width="20" /></a>
   - Collaborating on New Projects
   - Research on Topics - AI, Machine Learning, Blockchain, Cloud Computing, Various Programming Languages, Deep Learning & Big Data and Analytics
   - Pair Programming
   - Any new opportunity 
-  - Discussing Life  
-
-<p align="left">
-<a href="https://www.linkedin.com/in/tanujpant6263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tanujpant6263" height="30" width="40" /></a>
-</p>
+  - Discussing Life
+    
 <img align="right" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Error">
 <br>
 <h2 align="left">Tech. Stack and Tools: <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif/1200px-Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif" height="59px" style="max-width:100%;"></h2>
