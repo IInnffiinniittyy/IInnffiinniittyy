@@ -19,7 +19,7 @@
 
 - 📫 Feel free to reach me at **tanuj813@gmail.com**
 
-- ⚡ Fun fact:  **Nobody has enough!**
+- ⚡ Fun fact:  **It is your responsibility to find meaning in your life**
 
 ## Connect with me for : <a href="https://www.linkedin.com/in/tanujpant6263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tanujpant6263" height="25" width="20" /></a>
   - Collaborating on New Projects
