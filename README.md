@@ -1,4 +1,4 @@
- <p align="center" >
+<p align="center" >
   <img height=150px src="https://raw.githubusercontent.com/BhuvaneshHingal/BhuvaneshHingal/master/icon/Olaf.gif" />
  </p>
 <p align= "center"><img  src="https://readme-typing-svg.herokuapp.com?font=Courier&color=1e90ff&size=40&center=true&vCenter=true&width=1200&height=70&lines=Heya%2C+I'm+Tanuj;Student%2C+Life+Long+Learner%2C+Web+Developer;Always+happy+to+help!;Thank+you+so+much+for+visiting+this+tiny+space!"/>
