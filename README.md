@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact:  **It is your responsibility to find meaning in your life**
 
-## Connect with me for : <a href="https://www.linkedin.com/in/tanujpant6263" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tanujpant6263" height="25" width="20" /></a>
+## Connect with me for :
   - Collaborating on New Projects
   - Research on Topics - AI, Machine Learning, Blockchain, Cloud Computing, Various Programming Languages, Deep Learning & Big Data and Analytics
   - Pair Programming
