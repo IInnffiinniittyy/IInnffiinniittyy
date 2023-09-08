@@ -27,7 +27,12 @@
   - Pair Programming
   - Any new opportunity 
   - Discussing Life
-    
+
+ <p align="left">
+  <a href="https://www.linkedin.com/in/tanujpant6263/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" width="40px" alt="linkedin" /></a>&emsp;
+  <a title="tanuj813@gmail.com" href="mailto:tanuj813@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="40px"   alt="mail-me" /></a>&emsp;
+ </p>
+</br>
 <img align="right" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Error">
 <br>
 <h2 align="left">Tech. Stack and Tools: <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif/1200px-Cat_Laptop_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif" height="59px" style="max-width:100%;"></h2>
@@ -45,7 +50,8 @@
 
 <p align="center">
   <img height=230px src="https://i.pinimg.com/564x/28/f2/76/28f2765e35060ace8830174479e60976.jpg" /> <br/> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IInnffiinniittyy&theme=onedark" alt="mystreak"/>
+   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=IInnffiinniittyy&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>
+<br>
 </p>
 <p align="center">
  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270"><img src="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" width="100" data-canonical-src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" style="max-width:100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270"><img src="https://camo.githubusercontent.com/0cad3f969b0946abd0e5f16e9ed1ff78a2495a40c2bb5c6414aefd4be76505aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270" width="100" data-canonical-src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" style="max-width:100%;"></a><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270"><img src="https://camo.githubusercontent.com/4d67389739aa53e876a878719fa61eeebea468ae0be6af71903fa8c4c9b72018/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270" width="100" data-canonical-src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" style="max-width:100%;"></a><br><br>
