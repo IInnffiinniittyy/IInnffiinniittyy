@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Python!**
 
-- 👯 I’m looking to collaborate on **full-stack Projects**
+- 👯 I’m looking to collaborate on **full-stack projects**
 
 - 📫 Feel free to reach me at **tanuj813@gmail.com**
 
