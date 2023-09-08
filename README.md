@@ -13,9 +13,9 @@
 
 <img align="right"  width="450" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 
-- 🌱 I’m currently learning **JAVA!**
+- 🌱 I’m currently learning **Python!**
 
-- 👯 I’m looking to collaborate on **Full-stack Projects**
+- 👯 I’m looking to collaborate on **full-stack Projects**
 
 - 📫 Feel free to reach me at **tanuj813@gmail.com**
 
