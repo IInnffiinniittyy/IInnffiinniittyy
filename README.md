@@ -59,9 +59,7 @@
 <img align="right" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Error">
 
 ![Tanuj Pant's Github Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=IInnffiinniittyy&show_icons=true&include_all_commits=true&theme=radical)
-<p align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=IInnffiinniittyy)
-</p>
+
 <img width="400" align="left" src="https://c.tenor.com/lKFLaKjwKuQAAAAM/mental-health-wellbeing.gif" alt="Error">
 <img width="400" height="380" align="right" src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i8TTfc2g2GHo/v1/-1x-1.jpg" alt="Error">
 <br>
